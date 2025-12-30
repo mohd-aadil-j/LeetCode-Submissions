@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0274-h-index](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0274-h-index) |
 ## Sorting
 |  |
@@ -46,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0274-h-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
