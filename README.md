@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0274-h-index) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
