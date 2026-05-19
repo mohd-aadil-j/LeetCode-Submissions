@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1302-deepest-leaves-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
