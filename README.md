@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 | [0118-pascals-triangle](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 | [0274-h-index](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/mohd-aadil-j/LeetCode-Submissions/tree/master/0047-permutations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
